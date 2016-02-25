@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace PersonalPage\Events;
 
 abstract class Event
 {
