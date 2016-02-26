@@ -179,7 +179,7 @@
                 <div class="col-lg-5 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">Abilidades<br>Abilities</h2>
+                    <h2 class="section-heading">Habilidades<br>Abilities</h2>
                     <p class="lead">*Desarrollo de páginas web con Laravel, HTML5,  AngularJS, Parallax, PHP y ajax.
                     <br>
                         *Manejo de bases de datos SQL y noSql como: Mongodb, Oracle y MySQL.
