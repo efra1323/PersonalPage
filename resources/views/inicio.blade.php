@@ -9,7 +9,8 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Landing Page - Start Bootstrap Theme</title>
+    <title>Efraín Ventura</title>
+    <link rel="shortcut icon" type="image/png" href="icon/icono.png"/>
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" type="text/css" href="css/app.css">
@@ -42,19 +43,19 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand topnav" href="#">Start Bootstrap</a>
+                <a class="navbar-brand topnav" href="#">Efraín Ventura</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="#about">About</a>
+                        <a href="#about">Home</a>
                     </li>
                     <li>
-                        <a href="#services">Services</a>
+                        <a href="#services">Sobre mi/About me</a>
                     </li>
                     <li>
-                        <a href="#contact">Contact</a>
+                        <a href="#contact">Contacto</a>
                     </li>
                 </ul>
             </div>
@@ -83,7 +84,7 @@
                                 <a href="https://github.com/efra1323" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
                             </li>
                             <li>
-                                <a href="https://www.facebook.com/efra.punk.1323" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Facebook</span></a>
+                                <a href="https://www.facebook.com/efra.punk.1323" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
                             </li>
                         </ul>
                     </div>
@@ -220,7 +221,7 @@
                             <a href="https://github.com/efra1323" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
                         </li>
                         <li>
-                            <a href="https://www.facebook.com/efra.punk.1323" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Facebook</span></a>
+                            <a href="https://www.facebook.com/efra.punk.1323" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
                         </li>
                     </ul>
                 </div>
@@ -243,18 +244,13 @@
                         </li>
                         <li class="footer-menu-divider">&sdot;</li>
                         <li>
-                            <a href="#about">About</a>
+                            <a href="#about">Sobre mi/About me</a>
                         </li>
                         <li class="footer-menu-divider">&sdot;</li>
                         <li>
-                            <a href="#services">Services</a>
-                        </li>
-                        <li class="footer-menu-divider">&sdot;</li>
-                        <li>
-                            <a href="#contact">Contact</a>
+                            <a href="#contact">Contacto</a>
                         </li>
                     </ul>
-                    <p class="copyright text-muted small">Copyright &copy; Your Company 2014. All Rights Reserved</p>
                 </div>
             </div>
         </div>
