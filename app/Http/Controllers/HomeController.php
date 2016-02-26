@@ -11,6 +11,6 @@ class HomeController extends Controller
 {
     //
     public function index(){
-    	return 'Hola mundo, pagina Efraín Ventura';
+    	return view('inicio');
     }
 }
